@@ -1,5 +1,5 @@
 <?php namespace App\Controllers;
-
+use App\ThirdParty\Eczane;
 class Home extends BaseController
 {
 	public function index()

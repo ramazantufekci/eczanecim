@@ -2,7 +2,7 @@
 <html lang="tr">
 <head>
 <meta charset="utf-8">
-<title><?php $title;?></title>
+<title><?php $this->renderSection("title");?></title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta name="description" content="istanbul'da ilçe ilçe nöbetçi eczane adres bilgileri" />
 <meta name="author" content="Derya TÜFEKÇİ" />
@@ -25,10 +25,6 @@ $(document).ready(function(){
 <a href="/"><i class="fa fa-home fa-3x"></i></a>
     <?php $this->renderSection("block");?>
 </div>
-<div class="container">
-<?php $liste;?>
-</div>
-<p> ramazan</p>
 <script src="/js/bootstrap.min.js"></script>
 </body>
 </html>
