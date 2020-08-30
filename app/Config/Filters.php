@@ -10,13 +10,15 @@ class Filters extends BaseConfig
 		'csrf'     => \CodeIgniter\Filters\CSRF::class,
 		'toolbar'  => \CodeIgniter\Filters\DebugToolbar::class,
 		'honeypot' => \CodeIgniter\Filters\Honeypot::class,
+		'throttle' => \App\Filters\Yasakla::class,
 	];
 
 	// Always applied before every request
 	public $globals = [
 		'before' => [
 			//'honeypot'
-			// 'csrf',
+			 'csrf',
+			 'throttle',
 		],
 		'after'  => [
 			'toolbar',

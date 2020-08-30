@@ -1,7 +1,7 @@
 <?php $this->extend("base.html");?>
 <?php
 $this->section("title");
-echo "İstanbul {$title_isim} Nöbetçi Eczane Listesi";
+echo "Nöbetçi Eczane {$title_isim}";
 $this->endSection();
 ?>
 <?php $this->section("block");?>

@@ -365,3 +365,211 @@ CRITICAL - 2020-08-29 12:39:26 --> Array to string conversion
 #7 C:\Users\lcladmin\Documents\eczane\eczanecim\public\index.php(45): CodeIgniter\CodeIgniter->run()
 #8 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\lcladm...')
 #9 {main}
+CRITICAL - 2020-08-29 15:04:34 --> CSRF filter must have a matching alias defined.
+#0 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Filters\Filters.php(150): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('CSRF')
+#1 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(382): CodeIgniter\Filters\Filters->run('/', 'before')
+#2 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\lcladmin\Documents\eczane\eczanecim\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\lcladm...')
+#5 {main}
+CRITICAL - 2020-08-29 15:08:31 --> CSRF filter must have a matching alias defined.
+#0 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Filters\Filters.php(150): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('CSRF')
+#1 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(382): CodeIgniter\Filters\Filters->run('/', 'before')
+#2 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\lcladmin\Documents\eczane\eczanecim\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\lcladm...')
+#5 {main}
+CRITICAL - 2020-08-29 15:08:33 --> CSRF filter must have a matching alias defined.
+#0 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Filters\Filters.php(150): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('CSRF')
+#1 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(382): CodeIgniter\Filters\Filters->run('/', 'before')
+#2 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\lcladmin\Documents\eczane\eczanecim\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\lcladm...')
+#5 {main}
+CRITICAL - 2020-08-29 15:08:34 --> CSRF filter must have a matching alias defined.
+#0 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Filters\Filters.php(150): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('CSRF')
+#1 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(382): CodeIgniter\Filters\Filters->run('/', 'before')
+#2 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\lcladmin\Documents\eczane\eczanecim\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\lcladm...')
+#5 {main}
+CRITICAL - 2020-08-29 15:09:48 --> CSRF filter must have a matching alias defined.
+#0 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Filters\Filters.php(150): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('CSRF')
+#1 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(382): CodeIgniter\Filters\Filters->run('/', 'before')
+#2 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\lcladmin\Documents\eczane\eczanecim\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\lcladm...')
+#5 {main}
+CRITICAL - 2020-08-29 15:09:50 --> CSRF filter must have a matching alias defined.
+#0 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Filters\Filters.php(150): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('CSRF')
+#1 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(382): CodeIgniter\Filters\Filters->run('/', 'before')
+#2 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\lcladmin\Documents\eczane\eczanecim\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\lcladm...')
+#5 {main}
+CRITICAL - 2020-08-29 15:09:50 --> CSRF filter must have a matching alias defined.
+#0 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Filters\Filters.php(150): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('CSRF')
+#1 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(382): CodeIgniter\Filters\Filters->run('/', 'before')
+#2 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\lcladmin\Documents\eczane\eczanecim\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\lcladm...')
+#5 {main}
+CRITICAL - 2020-08-29 15:09:50 --> CSRF filter must have a matching alias defined.
+#0 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Filters\Filters.php(150): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('CSRF')
+#1 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(382): CodeIgniter\Filters\Filters->run('/', 'before')
+#2 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\lcladmin\Documents\eczane\eczanecim\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\lcladm...')
+#5 {main}
+CRITICAL - 2020-08-29 15:09:51 --> CSRF filter must have a matching alias defined.
+#0 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Filters\Filters.php(150): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('CSRF')
+#1 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(382): CodeIgniter\Filters\Filters->run('/', 'before')
+#2 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\lcladmin\Documents\eczane\eczanecim\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\lcladm...')
+#5 {main}
+CRITICAL - 2020-08-29 15:09:52 --> CSRF filter must have a matching alias defined.
+#0 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Filters\Filters.php(150): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('CSRF')
+#1 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(382): CodeIgniter\Filters\Filters->run('/', 'before')
+#2 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\lcladmin\Documents\eczane\eczanecim\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\lcladm...')
+#5 {main}
+CRITICAL - 2020-08-29 15:09:52 --> CSRF filter must have a matching alias defined.
+#0 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Filters\Filters.php(150): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('CSRF')
+#1 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(382): CodeIgniter\Filters\Filters->run('/', 'before')
+#2 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\lcladmin\Documents\eczane\eczanecim\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\lcladm...')
+#5 {main}
+CRITICAL - 2020-08-29 15:09:53 --> CSRF filter must have a matching alias defined.
+#0 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Filters\Filters.php(150): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('CSRF')
+#1 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(382): CodeIgniter\Filters\Filters->run('/', 'before')
+#2 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\lcladmin\Documents\eczane\eczanecim\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\lcladm...')
+#5 {main}
+CRITICAL - 2020-08-29 15:09:53 --> CSRF filter must have a matching alias defined.
+#0 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Filters\Filters.php(150): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('CSRF')
+#1 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(382): CodeIgniter\Filters\Filters->run('/', 'before')
+#2 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\lcladmin\Documents\eczane\eczanecim\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\lcladm...')
+#5 {main}
+CRITICAL - 2020-08-29 15:12:03 --> CSRF filter must have a matching alias defined.
+#0 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Filters\Filters.php(150): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('CSRF')
+#1 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(382): CodeIgniter\Filters\Filters->run('/', 'before')
+#2 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\lcladmin\Documents\eczane\eczanecim\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\lcladm...')
+#5 {main}
+CRITICAL - 2020-08-29 15:17:52 --> syntax error, unexpected ';', expecting ']'
+#0 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\Users\\lcladm...')
+#1 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Filters')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Filters')
+#3 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Config\Services.php(322): spl_autoload_call('Config\\Filters')
+#4 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Config\BaseService.php(123): CodeIgniter\Config\Services::filters(NULL, false)
+#5 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Config\Services.php(317): CodeIgniter\Config\BaseService::getSharedInstance('filters', NULL)
+#6 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(367): CodeIgniter\Config\Services::filters()
+#7 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Users\lcladmin\Documents\eczane\eczanecim\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\lcladm...')
+#10 {main}
+CRITICAL - 2020-08-29 15:18:18 --> CSRF filter must have a matching alias defined.
+#0 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Filters\Filters.php(150): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('CSRF')
+#1 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(382): CodeIgniter\Filters\Filters->run('/', 'before')
+#2 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\lcladmin\Documents\eczane\eczanecim\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\lcladm...')
+#5 {main}
+CRITICAL - 2020-08-29 15:23:09 --> throttle filter must have a matching alias defined.
+#0 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Filters\Filters.php(150): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('throttle')
+#1 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(382): CodeIgniter\Filters\Filters->run('/', 'before')
+#2 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\lcladmin\Documents\eczane\eczanecim\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\lcladm...')
+#5 {main}
+CRITICAL - 2020-08-29 15:23:13 --> throttle filter must have a matching alias defined.
+#0 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Filters\Filters.php(150): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('throttle')
+#1 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(382): CodeIgniter\Filters\Filters->run('/', 'before')
+#2 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\lcladmin\Documents\eczane\eczanecim\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\lcladm...')
+#5 {main}
+CRITICAL - 2020-08-29 15:23:14 --> throttle filter must have a matching alias defined.
+#0 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Filters\Filters.php(150): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('throttle')
+#1 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(382): CodeIgniter\Filters\Filters->run('/', 'before')
+#2 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\lcladmin\Documents\eczane\eczanecim\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\lcladm...')
+#5 {main}
+CRITICAL - 2020-08-29 15:23:14 --> throttle filter must have a matching alias defined.
+#0 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Filters\Filters.php(150): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('throttle')
+#1 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(382): CodeIgniter\Filters\Filters->run('/', 'before')
+#2 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\lcladmin\Documents\eczane\eczanecim\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\lcladm...')
+#5 {main}
+CRITICAL - 2020-08-29 15:23:23 --> CSRF filter must have a matching alias defined.
+#0 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Filters\Filters.php(150): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('CSRF')
+#1 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(382): CodeIgniter\Filters\Filters->run('/', 'before')
+#2 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\lcladmin\Documents\eczane\eczanecim\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\lcladm...')
+#5 {main}
+CRITICAL - 2020-08-29 15:24:21 --> CSRF filter must have a matching alias defined.
+#0 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Filters\Filters.php(150): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('CSRF')
+#1 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(382): CodeIgniter\Filters\Filters->run('/', 'before')
+#2 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\lcladmin\Documents\eczane\eczanecim\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\lcladm...')
+#5 {main}
+CRITICAL - 2020-08-29 15:24:23 --> CSRF filter must have a matching alias defined.
+#0 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Filters\Filters.php(150): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('CSRF')
+#1 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(382): CodeIgniter\Filters\Filters->run('/', 'before')
+#2 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\lcladmin\Documents\eczane\eczanecim\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\lcladm...')
+#5 {main}
+CRITICAL - 2020-08-29 15:24:24 --> CSRF filter must have a matching alias defined.
+#0 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Filters\Filters.php(150): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('CSRF')
+#1 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(382): CodeIgniter\Filters\Filters->run('/', 'before')
+#2 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\lcladmin\Documents\eczane\eczanecim\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\lcladm...')
+#5 {main}
+CRITICAL - 2020-08-29 15:24:25 --> CSRF filter must have a matching alias defined.
+#0 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Filters\Filters.php(150): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('CSRF')
+#1 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(382): CodeIgniter\Filters\Filters->run('/', 'before')
+#2 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\lcladmin\Documents\eczane\eczanecim\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\lcladm...')
+#5 {main}
+CRITICAL - 2020-08-29 15:26:31 --> CSRF filter must have a matching alias defined.
+#0 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Filters\Filters.php(150): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('CSRF')
+#1 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(382): CodeIgniter\Filters\Filters->run('/', 'before')
+#2 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\lcladmin\Documents\eczane\eczanecim\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\lcladm...')
+#5 {main}
+CRITICAL - 2020-08-29 15:30:22 --> CSRF filter must have a matching alias defined.
+#0 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Filters\Filters.php(150): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('CSRF')
+#1 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(382): CodeIgniter\Filters\Filters->run('/', 'before')
+#2 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\lcladmin\Documents\eczane\eczanecim\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\lcladm...')
+#5 {main}
+CRITICAL - 2020-08-29 15:30:26 --> CSRF filter must have a matching alias defined.
+#0 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Filters\Filters.php(150): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('CSRF')
+#1 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(382): CodeIgniter\Filters\Filters->run('/', 'before')
+#2 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\lcladmin\Documents\eczane\eczanecim\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\lcladm...')
+#5 {main}
+CRITICAL - 2020-08-29 15:34:29 --> CSRF filter must have a matching alias defined.
+#0 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Filters\Filters.php(150): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('CSRF')
+#1 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(382): CodeIgniter\Filters\Filters->run('/', 'before')
+#2 C:\Users\lcladmin\Documents\eczane\eczanecim\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\lcladmin\Documents\eczane\eczanecim\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\lcladmin\Documents\eczane\eczanecim\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\lcladm...')
+#5 {main}
